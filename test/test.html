@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link rel="stylesheet" href="lamdep.css">
+    </head>
+    <body>
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Personal information:</legend>
+            First name:<br>
+            <input type="text" name="firstname" value="Mickey"><br>
+            Last name:<br>
+            <input type="text" name="lastname" value="Mouse"><br><br>
+            <input type="submit" value="Submit">
+            <input type="range" name="score" id="score" value="50" min="0" max="100">
+            <input type="button" value="Button">
+            <input type="checkbox">
+        </fieldset>
+
+    </form>
+    <form action="#"> <!-- cái này dùng để làm lệnh bắt nhập dữ liệu không thì sẽ không gửi đc:required-->
+        <label>Họ tên:<input type="text"  name="hoten" required></label>
+        <input type="submit" value="Gửi">
+    </form>
+        <table border="1">
+        <thead>
+            <th>STT</th>
+            <th>Ten</th>
+        </thead>
+            <tr>
+                <th>1</th>
+                <th>Duong</th>
+            </tr>
+        </table>
+    <select name="city" >
+        <option value="HN">Hà Nội</option>
+        <option value="HP">Hải Phòng</option>
+        <option value="HU">Huế</option>
+        <option value="DN">Đà Nẵng</option>
+        <option value="SG">Sài Gòn</option>
+    </select>
+    <form action="https://www.google.com.vn/search">
+        <input type="text" name="q"/>
+        <input type="submit" value="Tìm kiếm"/>
+    </form>
+    <p>Gender</p>
+    <input type="radio" name="sex" id="1" placeholder="Male"> Male <br>
+    <input type="radio" name="sex" id="1" placeholder="Female"> Female
+    </body>
+</html>

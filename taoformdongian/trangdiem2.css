@@ -1,0 +1,6 @@
+    h1{color:blue;background-color: aqua;width:50%}
+    div{padding: 60px;
+        background-color:darkorange;
+        background-clip:padding-box;
+        margin-right: 400px;
+    }

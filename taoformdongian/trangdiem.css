@@ -1,0 +1,13 @@
+    .name{
+        size: 200px}
+    body{
+        padding: 50px 50px 50px 50px}
+    .dong1{font-size: xx-large;
+        background-color: orangered; margin-right: 100px;
+        color: white;
+        text-align: center}
+    label{justify-content: center}
+    th td{text-align: center}
+    .dong2{color:blue}
+    .dong3{color:orange}
+
