@@ -1,0 +1,29 @@
+.bang2 th{
+    border: 3px outset gray;
+    background-color: white;
+
+}
+.bang2 {
+    width: 40%; background-color: gray;
+}
+.bang1{
+    width: 40%;
+}
+.red{
+    color: red;
+}
+.vang{
+    color: white;background-color: yellow;
+}
+.blue{
+    color: blue;
+}
+#do{
+    background-color: red; color: white;
+}
+#xanh{
+    background-color: blue;color: white;
+}
+h1{
+    margin-left: 40px;color: blue;
+}
