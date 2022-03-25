@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="012ae3fc-1038-49ec-a45d-ec6944a7d9bf" name="Changes" comment="" />
+    <list default="true" id="012ae3fc-1038-49ec-a45d-ec6944a7d9bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitaptaobangnangcao/baitaptablenangcao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitaptaobangnangcao/chinhanh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lamdep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -71,7 +79,7 @@
       <workItem from="1648041503136" duration="3184000" />
       <workItem from="1648084287145" duration="24224000" />
       <workItem from="1648127833919" duration="6961000" />
-      <workItem from="1648170387039" duration="4866000" />
+      <workItem from="1648170387039" duration="14438000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,9 @@
+    table{
+        background-color: #ffd04e;
+    }
+    div{
+        border: 10px solid #ffd04e;
+        display: inline-block;
+    }
+    .d{background-color: black}
+    .f{background-color: white}
