@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="012ae3fc-1038-49ec-a45d-ec6944a7d9bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitaptablesimple/tablesimple2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitaptablesimple/taomot2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobangcoban/makeup.css" beforeDir="false" afterPath="$PROJECT_DIR$/taobangcoban/makeup.css" afterDir="false" />
-    </list>
+    <list default="true" id="012ae3fc-1038-49ec-a45d-ec6944a7d9bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <workItem from="1648041503136" duration="3184000" />
       <workItem from="1648084287145" duration="24224000" />
       <workItem from="1648127833919" duration="6961000" />
-      <workItem from="1648170387039" duration="4022000" />
+      <workItem from="1648170387039" duration="4866000" />
     </task>
     <servers />
   </component>
